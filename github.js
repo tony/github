@@ -767,8 +767,12 @@
     };
   };
 
-
-  if (typeof exports !== 'undefined') {
+  if (typeof define === 'function' && define.amd) {
+     // AMD. Register as an anonymous module.
+    define(function() {
+      return Github;
+    });
+  } else if (typeof exports !== 'undefined') {
     // Github = exports;
     module.exports = Github;
   } else {
