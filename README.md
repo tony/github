@@ -1,7 +1,7 @@
-﻿[![browser support](https://ci.testling.com/darvin/github.png)](https://ci.testling.com/darvin/github)
+﻿[![browser support](https://ci.testling.com/michael/github.png)](https://ci.testling.com/michael/github)
 
 
-[![Build Status](https://travis-ci.org/darvin/github.png?branch=master)](https://travis-ci.org/darvin/github)
+[![Build Status](https://travis-ci.org/michael/github.png?branch=master)](https://travis-ci.org/michael/github)
 
 # Github.js
 
